@@ -1,7 +1,7 @@
 {
   "name": "claude-minimal",
   "version": "1.0.0",
-  "description": "",
+  "description": "Minimal Node.js wrapper to drive Claude Code as a programmable agent backend via its stream-json stdio protocol",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
