@@ -100,6 +100,12 @@ Once you understand the stdio JSON protocol — how messages are structured, how
 
 `claude-minimal` is the entry point of the **agent-series**. It strips everything down to the bare minimum so the protocol is easy to read. Subsequent projects in the series build on this foundation, adding tools, memory management, and higher-level orchestration.
 
+## License
+
+MIT © [iHunterDev](https://github.com/hunter-ai/claude-minimal)
+
+If you use this code, please include the author's name and a link to the original repository.
+
 ---
 
 [中文文档 →](README.zh.md)
